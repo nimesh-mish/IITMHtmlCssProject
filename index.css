@@ -1,0 +1,27 @@
+*{
+    background-color: #fdfdbb;
+}
+body{
+    overflow: hidden;
+}
+
+.header a{
+    color: #ff0000;
+    text-decoration: none;
+
+}
+
+h1{
+    position: relative;
+    left: 40%;
+}
+span{
+    color: #0000ff;
+}
+.footer h5{
+    position: relative;
+    top: 480px;
+    left: 40%;
+    
+    
+}

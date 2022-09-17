@@ -1,0 +1,22 @@
+*{
+    background-color: #fdfdbb;
+}
+body{
+    overflow: hidden;
+}
+.header a{
+    text-decoration: none;
+    color: #ff0000;
+}
+.footer {
+    position: relative;
+    top: 380px;
+    left: 40%;
+}
+th{
+    background-color: #259e3f;
+}
+td{
+    background-color: black;
+    color: white;
+}

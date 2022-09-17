@@ -1,0 +1,18 @@
+*{
+    background-color: #fdfdbb;
+}
+body{
+    overflow: hidden;
+}
+.header a{
+    text-decoration: none;
+    color: #ff0000;
+}
+.footer h5{
+    position: relative;
+    left: 40%;
+    top: 450px;
+}
+span{
+    color: #0000ff;
+}
